@@ -105,4 +105,4 @@ Make sure that the parameters of the new Agent instance match those that were us
 
 I check the performance of the trained models in `trained_models.ipynb`.
 
-![model_training](https://github.com/mbluestone/multiagent-rl-tennis/blob/master/img/trained_models.mp4)
+![model_training](https://github.com/mbluestone/multiagent-rl-tennis/blob/master/img/trained_models.gif)
